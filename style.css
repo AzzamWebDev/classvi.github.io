@@ -23,7 +23,6 @@ body {
 .kotak {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
     gap: 2px;
     padding-left: 2px;
     padding-right:2px;
