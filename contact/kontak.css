@@ -1,14 +1,1 @@
-body {
-    margin: 0;
-    padding: 0;
-}
 
-.isi {
-    display: flex;
-    flex-direction: column;
-
-}
-
-.isi p {
-    margin: -10px;
-}
